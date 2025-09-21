@@ -9,7 +9,7 @@ Exploring the intersection of design, technology, and storytelling through AR, W
 - Innovation designer and full-stack engineer with **18+ years of experience**  
 - Specialized in **AR/WebXR, museum & exhibition tech, and enterprise apps**  
 - Built interactive experiences for **museums, cities, and global companies** (Timișoara City Hall, Jewish Museum Wien, Astra Sibiu, RedBull, Ars Electronica, etc.)  
-- Engineering Lead @ **K2 Corporate Mobility** and Solopreneur @ **Black & Field SRL**  
+- Senior Engineer Lead @ **K2 Corporate Mobility** and Solopreneur @ **Black & Field SRL**  
 
 ---
 ![Github 2025](./assets/github2025.png) 
