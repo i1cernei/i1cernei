@@ -85,8 +85,7 @@ Architected web-based VR platform integrating 3D panoramas, archival content and
 [![GitHubPersonal](https://img.shields.io/badge/GitHub-i1cernei-black?logo=github)](https://github.com/i1cernei)  
 [![GitHubProfessional](https://img.shields.io/badge/GitHub-ioank2-black?logo=github)](https://github.com/ioank2)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/ioan-ovidiu-cernei-51771097/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?logo=google-chrome)](https://your-portfolio-link.com)  
-[![Email](https://img.shields.io/badge/Contact-Email-orange?logo=gmail)](mailto:your.email@example.com)  
+[![Email](https://img.shields.io/badge/Contact-Email-orange?logo=gmail)](mailto:ioan.cernei@gmail.com)  
 
 ---
 
