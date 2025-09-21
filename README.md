@@ -13,7 +13,6 @@ Exploring the intersection of design, technology, and storytelling through AR, W
 
 ---
 
-![Snake animation](https://github.com/i1cernei/i1cernei/blob/output/github-contribution-grid-snake.svg)
 
 ## 🛠️ Skills & Tools  
 
