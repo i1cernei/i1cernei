@@ -12,7 +12,8 @@ Exploring the intersection of design, technology, and storytelling through AR, W
 - Engineering Lead @ **K2 Corporate Mobility** and Solopreneur @ **Black & Field SRL**  
 
 ---
-
+![Professional GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ioank2&theme=dark)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ioank2&bg_color=454545&color=5e9e4c&line=07b693&point=0dfd81&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🛠️ Skills & Tools  
 
@@ -63,8 +64,7 @@ Architected web-based VR platform integrating 3D panoramas, archival content and
 ![Personal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=i1cernei&theme=dark)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=i1cernei&bg_color=454545&color=5e9e4c&line=07b693&point=0dfd81&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Professional GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ioank2&theme=dark)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ioank2&bg_color=454545&color=5e9e4c&line=07b693&point=0dfd81&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 ---
