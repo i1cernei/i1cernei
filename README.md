@@ -33,7 +33,7 @@ JavaScript (ES6+) • PHP • Python • SQL • TypeScript
 ![React](https://img.shields.io/badge/Framework-React-61DAFB?logo=react)  
 ![Node.js](https://img.shields.io/badge/Runtime-Node.js-339933?logo=node.js)  
 ![WebXR](https://img.shields.io/badge/AR/WebXR-000000?logo=webxr)  
-![Unity](https://img.shields.io/badge/Engine-Unity-000000?logo=unity)  
+![Unreal](https://img.shields.io/badge/Engine-Unreal-000000?logo=unreal)  
 ![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900?logo=amazon-aws)  
 
 ---
@@ -58,11 +58,10 @@ Architected web-based VR platform integrating 3D panoramas, archival content and
 ---
 
 ## 📊 GitHub Activity  
-![Ioan’s Solo GitHub Stats](https://github-readme-stats.vercel.app/api?username=i1cernei&show_icons=true&theme=dark) 
-![Ioan’s Job GitHub Stats](https://github-readme-stats.vercel.app/api?username=ioank2&show_icons=true&theme=dark)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ioank2&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=i1cernei2&layout=compact&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ioank2&layout=compact&theme=dark)  
+
+![Personal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=i1cernei&theme=dark)
+![Professional GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ioank2&theme=dark)
+
 
 ---
 
@@ -79,9 +78,9 @@ Architected web-based VR platform integrating 3D panoramas, archival content and
 
 ## 🔗 Connect with Me  
 
-[![GitHubPersonal](https://img.shields.io/badge/GitHub-ioank2-black?logo=github)](https://github.com/i1cernei)  
+[![GitHubPersonal](https://img.shields.io/badge/GitHub-i1cernei-black?logo=github)](https://github.com/i1cernei)  
 [![GitHubProfessional](https://img.shields.io/badge/GitHub-ioank2-black?logo=github)](https://github.com/ioank2)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/ioan-ovidiu-cernei-51771097/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?logo=google-chrome)](https://your-portfolio-link.com)  
 [![Email](https://img.shields.io/badge/Contact-Email-orange?logo=gmail)](mailto:your.email@example.com)  
 
